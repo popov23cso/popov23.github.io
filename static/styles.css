@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(21, 32, 43);
+    color: white;
+}
+
+
+
+.about_div {
+    display:grid;
+    grid-template-columns: auto auto;
+    grid-template-columns: 2fr 1fr;
+    place-items: start;
+}
+
+.about_item {
+    
+}
+
