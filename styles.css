@@ -1,0 +1,22 @@
+
+body {
+    background-color: rgb(19, 19, 22);
+    color: rgb(161, 241, 31);
+}
+
+
+section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 50vh;
+}
+
+.hidden {
+    opacity: 0;
+    transition: all 5s;
+}
+
+.show {
+    opacity: 1;
+}
