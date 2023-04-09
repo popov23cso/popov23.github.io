@@ -55,6 +55,20 @@ section {
     .language-info {
       grid-template-columns: repeat(3, 1fr);
     }
-  }
+}
 
 
+.purpleBtn {
+    padding: 15px;
+    background-color: rgb(49, 7, 88);
+    border-color: rgb(49, 7, 88);
+    border-radius: 15px;
+    color: rgb(161, 241, 31);
+}
+
+
+p {
+    padding: 25px;
+    font-size:larger;
+    text-align: justify;
+}
